@@ -1,4 +1,4 @@
-cids-custom-wrrl-db-mv-commons
+cids-custom-wrrl-db-mv-commons [![Build Status](http://ci.cismet.de/buildStatus/icon?job=cids-custom-wrrl-db-mv-commons)](https://ci.cismet.de/job/cids-custom-wrrl-db-mv-commons/)
 ==============================
 
 Common Customizations of the cids system for the FIS Wasser System, FGSK Topic and GUP-MV.
