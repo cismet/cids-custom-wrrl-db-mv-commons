@@ -21,7 +21,7 @@
     
     <properties>
         <!-- 
-            FIXME: Remove when deprecated cids-parent is replaced by cismet-parent
+            TODO: Remove when deprecated cids-parent is replaced by cismet-parent
         -->
         <de.cismet.libDir>lib/localWRRLDBMV</de.cismet.libDir>
     </properties>
