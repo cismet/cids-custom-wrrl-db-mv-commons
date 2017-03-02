@@ -20,6 +20,9 @@
     <description>!!! description pending !!!</description>
     
     <properties>
+        <!-- 
+            FIXME: Remove when deprecated cids-parent is replaced by cismet-parent
+        -->
         <de.cismet.libDir>lib/localWRRLDBMV</de.cismet.libDir>
     </properties>
 
@@ -43,8 +46,13 @@
     <dependencies />
 
     <build>
-        <!-- overwritten because the artifact has to be renamed du to
-        compatibility reasons to the cidsDistribution -->
+        <!-- 
+            DANGER DANGER DANGER DANGER DANGER DANGER DANGER DANGER DANGER 
+            overwritten because the artifact has to be renamed du to
+            compatibility reasons to the cidsDistribution 
+            
+            See https://cismet.slack.com/files/jruiz/F3ZC7HX7V/Snapshot_als_finalName_in_pom_xml
+        -->
         <finalName>cidsCustomCommons</finalName>
     </build>
 </project>
