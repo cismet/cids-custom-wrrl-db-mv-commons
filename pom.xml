@@ -13,7 +13,7 @@
 
     <groupId>de.cismet.cids.custom.wrrl_db_mv</groupId>
     <artifactId>cids-custom-wrrl-db-mv-commons</artifactId>
-    <version>6.1-SNAPSHOT</version>
+    <version>7.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>cids Custom WRRL-DB-MV Commons</name>
