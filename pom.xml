@@ -8,12 +8,12 @@
     <parent>
         <groupId>de.cismet.cids</groupId>
         <artifactId>cids-parent</artifactId>
-        <version>7.0</version>
+        <version>8.0</version>
     </parent>
 
     <groupId>de.cismet.cids.custom.wrrl_db_mv</groupId>
     <artifactId>cids-custom-wrrl-db-mv-commons</artifactId>
-    <version>7.1-SNAPSHOT</version>
+    <version>8.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>cids Custom WRRL-DB-MV Commons</name>
